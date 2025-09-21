@@ -129,11 +129,11 @@ MD Sohail Ansari
 ## Screenshots
 
 ### Screenshot 1: 
-![Screenshot 1](screenshot1.png)
+![Screenshot1](screenshot1.png)
 
 ### Screenshot 2: Create Task
-![Screenshot 2](screenshot2.png)
+![Screenshot2](screenshot2.png)
 
 ### Screenshot 3: Search / Task Details
-![Screenshot 3](screenshot3.png)
+![Screenshot3](screenshot3.png)
 
