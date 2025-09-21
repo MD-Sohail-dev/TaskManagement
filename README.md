@@ -125,5 +125,3 @@ Author
 MD Sohail Ansari
 
 
-## Project Structure
-
